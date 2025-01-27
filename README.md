@@ -28,3 +28,5 @@ Install the required libraries via pip:
 pip install opencv-python numpy matplotlib
 ```
 
+## Example of what you should expect:
+![image](https://github.com/user-attachments/assets/4e55e634-49f7-41ca-a248-e4d542c69adf)
