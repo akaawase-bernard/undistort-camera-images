@@ -26,9 +26,5 @@ A powerful Python toolbox for undistorting images using camera calibration data.
 Install the required libraries via pip:
 ```bash
 pip install opencv-python numpy matplotlib
+```
 
-image-undistortion-toolbox/
-│
-├── undistort_toolbox.py  # Main script
-├── README.md             # Documentation
-└── requirements.txt      # Python dependencies
